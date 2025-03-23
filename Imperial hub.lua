@@ -2396,7 +2396,7 @@ ToggleButton.BackgroundTransparency = 1
 ToggleButton.BorderSizePixel = 0
 ToggleButton.Position = UDim2.new(0.120833337, 0, 0.0952890813, 0)
 ToggleButton.Size = UDim2.new(0, 50, 0, 50)
-ToggleButton.Image = "rbxassetid://95800489232564"
+ToggleButton.Image = "rbxassetid://117212676257242"
 ToggleButton.Draggable = true
 ToggleButton.MouseButton1Click:Connect(function()
 	game:GetService("VirtualInputManager"):SendKeyEvent(true, Enum.KeyCode.LeftControl, false, game)
@@ -7924,4 +7924,3 @@ spawn(function()
 		end
 	end
 end)
-
